@@ -4,7 +4,7 @@ from random import randint
 def example(n):
     for i in range(1,n):
         for j in range(1,n):
-            print("bakhshande")
+            print("ahaaa")
 
 
 tester = bigO()
