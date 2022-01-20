@@ -1,0 +1,13 @@
+C:\Users\Roozbeh\Desktop\99-1\Data Structure\Tamrin TA\tree\obj\Debug\netcoreapp3.1\tree.csprojAssemblyReference.cache
+C:\Users\Roozbeh\Desktop\99-1\Data Structure\Tamrin TA\tree\obj\Debug\netcoreapp3.1\tree.AssemblyInfoInputs.cache
+C:\Users\Roozbeh\Desktop\99-1\Data Structure\Tamrin TA\tree\obj\Debug\netcoreapp3.1\tree.AssemblyInfo.cs
+C:\Users\Roozbeh\Desktop\99-1\Data Structure\Tamrin TA\tree\obj\Debug\netcoreapp3.1\tree.csproj.CoreCompileInputs.cache
+C:\Users\Roozbeh\Desktop\99-1\Data Structure\Tamrin TA\tree\bin\Debug\netcoreapp3.1\tree.exe
+C:\Users\Roozbeh\Desktop\99-1\Data Structure\Tamrin TA\tree\bin\Debug\netcoreapp3.1\tree.deps.json
+C:\Users\Roozbeh\Desktop\99-1\Data Structure\Tamrin TA\tree\bin\Debug\netcoreapp3.1\tree.runtimeconfig.json
+C:\Users\Roozbeh\Desktop\99-1\Data Structure\Tamrin TA\tree\bin\Debug\netcoreapp3.1\tree.runtimeconfig.dev.json
+C:\Users\Roozbeh\Desktop\99-1\Data Structure\Tamrin TA\tree\bin\Debug\netcoreapp3.1\tree.dll
+C:\Users\Roozbeh\Desktop\99-1\Data Structure\Tamrin TA\tree\bin\Debug\netcoreapp3.1\tree.pdb
+C:\Users\Roozbeh\Desktop\99-1\Data Structure\Tamrin TA\tree\obj\Debug\netcoreapp3.1\tree.dll
+C:\Users\Roozbeh\Desktop\99-1\Data Structure\Tamrin TA\tree\obj\Debug\netcoreapp3.1\tree.pdb
+C:\Users\Roozbeh\Desktop\99-1\Data Structure\Tamrin TA\tree\obj\Debug\netcoreapp3.1\tree.genruntimeconfig.cache
